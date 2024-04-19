@@ -12,3 +12,5 @@ Minesweeper is a classic single-player puzzle game where the player's goal is to
 4. **Actions**: Players can uncover cells manually or utilize an AI to make moves.
 5. **Safety**: Players can mark cells suspected to contain mines to avoid accidental clicks.
 6. **Winning**: The game is won when all non-mine cells are uncovered.
+
+![Game Play](GamePlay.png)
